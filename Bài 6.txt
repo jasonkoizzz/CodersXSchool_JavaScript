@@ -1,0 +1,9 @@
+/**
+ * Cách sử dụng Array và Object khác nhau như thế nào. Viết câu trả lời ở phía dưới.
+ */
+
+cách sử dụng object là ta tạo về 1 thứ gì đó, thứ đó có gì ta khai báo ra
+ví dụ 1 con mèo có tuổi, có tên, có loại...
+
+
+Còn cách sử dụng array thì ta khai báo var Cats=[các loại mèo] để list ra các con mèo.
