@@ -1,0 +1,3 @@
+có a=10
+--a=9 + a++ =18
+vì ta lấy 9+ 9 trước r mới tăng a lên.
